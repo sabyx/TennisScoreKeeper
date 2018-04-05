@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_padding">20dp</dimen>
+    <dimen name="elements_margin_top">15dp</dimen>
+    <dimen name="score_text_size">40sp</dimen>
+    <dimen name="player_text_size">20sp</dimen>
+
+</resources>

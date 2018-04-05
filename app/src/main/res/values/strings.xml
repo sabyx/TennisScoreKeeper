@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tennis Score Keeper</string>
+    <string name="player1">PLAYER 1</string>
+    <string name="game">GAME</string>
+    <string name="set">SET</string>
+    <string name="double_fault">DOUBLE FAULT</string>
+    <string name="player2">PLAYER 2</string>
+    <string name="reset">RESET</string>
+    <string name="plus_point">+ POINT</string>
+    <string name="plus_fault">+ FAULT</string>
+    <string name="zero">0</string>
+</resources>
